@@ -1,14 +1,14 @@
 {
-  "name": "resume",
+  "name": "resumehtml",
   "version": "1.0.0",
-  "description": "",
+  "description": "my resume in html/css",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://gist.github.com/6ab1051a64e6b3270a1b31aedb7700ce.git"
+    "url": "ghttps://github.com/AJQS/Resume"
   },
   "author": "",
   "license": "ISC",
